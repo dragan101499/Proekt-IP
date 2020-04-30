@@ -11,7 +11,7 @@
   "magisk": {
     "version": "17.1",
     "versionCode": "17100",
-    "link": "https://github.com/dragan101499/Proekt-IP/raw/master/Magisk-v17.1.zip",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v19.0/Magisk-v19.0.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/6378e4404ceb89979d367bcc4687d673aa02c927/notes.md",
     "md5": "e867e1c75d7e93db99a55681e11c02e1"
   }
